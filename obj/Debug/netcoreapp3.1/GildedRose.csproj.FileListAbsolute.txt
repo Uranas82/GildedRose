@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.exe
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.deps.json
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.dll
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\bin\Debug\netcoreapp3.1\GildedRose.pdb
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.dll
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.pdb
+C:\Users\Admin\Desktop\C#\72 paskaita\GildedRose-master\GildedRose\obj\Debug\netcoreapp3.1\GildedRose.genruntimeconfig.cache
